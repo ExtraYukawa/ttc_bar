@@ -60,7 +60,7 @@
 "ZZJJTo4L": ["ZZJJTo4L","/ZZJJTo4L_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16NanoAODAPVv9-106X_mcRun2_asymptotic_preVFP_v11-v2/NANOAODSIM"],
 "WpWpJJ_EWK": ["WpWpJJ_EWK","/WpWpJJ_EWK_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16NanoAODAPVv9-106X_mcRun2_asymptotic_preVFP_v11-v2/NANOAODSIM"],
 "WpWpJJ_QCD": ["WpWpJJ_QCD","/WpWpJJ_QCD_TuneCP5_13TeV-madgraph-pythia8/RunIISummer20UL16NanoAODAPVv9-106X_mcRun2_asymptotic_preVFP_v11-v2/NANOAODSIM"],
-"ww_dps": ["WW_DPS","FIXME NO samples found"],
+"ww_dps": ["WW_DPS","/WWTo2L2Nu_TuneCP5_DoubleScattering_13TeV-pythia8/RunIISummer20UL16NanoAODAPVv9-106X_mcRun2_asymptotic_preVFP_v11-v2/NANOAODSIM"],
 "wz_ew": ["WZ_EW","FIXME NO samples found"], 
 "wz_qcd": ["WZ_QCD","/WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIISummer20UL16NanoAODAPVv9-106X_mcRun2_asymptotic_preVFP_v11-v1/NANOAODSIM"],
 "zz2l": ["ZZ2L","/ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/RunIISummer20UL16NanoAODAPVv9-106X_mcRun2_asymptotic_preVFP_v11-v1/NANOAODSIM"],
